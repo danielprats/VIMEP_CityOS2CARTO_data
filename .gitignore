@@ -1,0 +1,19 @@
+# Fitxers temporals
+*.tmp
+*.temp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Backups
+*.bak
+*.backup
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Només versionar .parquet i docs
+# Tot el que NO sigui parquet, md o directoris estàndard és ignorat
